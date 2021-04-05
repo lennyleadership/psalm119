@@ -1,13 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Eureka Demo</title>
+    <title>Docs on Lenny Lin&#39;s Blog</title>
     <link>/docs/</link>
-    <description>Recent content in Docs on Eureka Demo</description>
+    <description>Recent content in Docs on Lenny Lin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+    <copyright>&amp;copy; 2021 
 </copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Apr 2021 11:19:38 -0500</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>诗篇 119</title>
+      <link>/docs/psalm119/</link>
+      <pubDate>Mon, 05 Apr 2021 11:19:36 -0500</pubDate>
+      
+      <guid>/docs/psalm119/</guid>
+      <description>1. 耶和华的律法 （1-8）1 行为完全、遵行耶和华律法的，这人便为有福！
+2 遵守他的法度、一心寻求他的，这人便为有福！
+3 这人不做非义的事，但遵行他的道。
+4 耶和华啊，你曾将你的训词吩咐我们，为要我们殷勤遵守。
+5 但愿我行事坚定，得以遵守你的律例。
+6 我看重你的一切命令，就不至于羞愧。
+7 我学了你公义的判语，就要以正直的心称谢你。
+8 我必守你的律例；求你总不要丢弃我！
+2. 顺从耶和华的律法 (9-16)9 少年人用什么洁净他的行为呢？是要遵行你的话！
+10 我一心寻求了你；求你不要叫我偏离你的命令。
+11 我将你的话藏在心里，免得我得罪你。
+12 耶和华啊，你是应当称颂的！求你将你的律例教训我！
+13 我用嘴唇传扬你口中的一切典章。
+14我喜悦你的法度，如同喜悦一切的财物。
+15我要默想你的训词，看重你的道路。
+16我要在你的律例中自乐；我不忘记你的话。
+3. 因耶和华律法而蒙福 (17-24)17 求你用厚恩待你的仆人，使我存活，我就遵守你的话。
+18 求你开我的眼睛，使我看出你律法中的奇妙。
+19 我是在地上作寄居的；求你不要向我隐瞒你的命令！
+20 我时常切慕你的典章，甚至心碎。
+21 受咒诅、偏离你命令的骄傲人，你已经责备他们。
+22 求你除掉我所受的羞辱和藐视，因我遵守你的法度。
+23 虽有首领坐着妄论我，你仆人却思想你的律例。
+24 你的法度是我所喜乐的，是我的谋士。
+4. 决定遵行耶和华的律法 (25-32)25 我的性命几乎归于尘土；求你照你的话将我救活！
+26 我述说我所行的，你应允了我；求你将你的律例教训我！
+27 求你使我明白你的训词，我就思想你的奇事。
+28 我的心因愁苦而消化；求你照你的话使我坚立！
+29 求你使我离开奸诈的道，开恩将你的律法赐给我！
+30 我拣选了忠信的道，将你的典章摆在我面前。</description>
+    </item>
+    
+    <item>
+      <title>Psalm119 ESV</title>
+      <link>/docs/psalm119_esv/</link>
+      <pubDate>Mon, 05 Apr 2021 11:19:38 -0500</pubDate>
+      
+      <guid>/docs/psalm119_esv/</guid>
+      <description>Your Word Is a Lamp to My Feet
+Aleph
+119 Blessed are those whose way is blameless,
+who walk in the law of the Lord!
+2 Blessed are those who keep his testimonies,
+who seek him with their whole heart,
+3 who also do no wrong,
+but walk in his ways!
+4 You have commanded your precepts
+to be kept diligently.
+5 Oh that my ways may be steadfast
+in keeping your statutes!</description>
+    </item>
+    
   </channel>
 </rss>

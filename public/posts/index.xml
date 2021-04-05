@@ -1,66 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Eureka Demo</title>
+    <title>Posts on Lenny Lin&#39;s Blog</title>
     <link>/posts/</link>
-    <description>Recent content in Posts on Eureka Demo</description>
+    <description>Recent content in Posts on Lenny Lin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+    <copyright>&amp;copy; 2021 
 </copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Apr 2021 11:41:15 -0500</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Diagram Support</title>
-      <link>/posts/diagram-support/</link>
-      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      <title>Walk in the Law of God</title>
+      <link>/posts/walk_in_the_law_of_god/</link>
+      <pubDate>Mon, 05 Apr 2021 11:41:15 -0500</pubDate>
       
-      <guid>/posts/diagram-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of diagrams by using Mermaid.&lt;/p&gt;</description>
+      <guid>/posts/walk_in_the_law_of_god/</guid>
+      <description>我听到一件真实的故事，来诠释“遵行耶和华律法的人必有福”！于斌牧师有一次在远东广播提到他们夫妻两彼此认罪的经历。是什么触发他们彼此认罪呢？是一次于牧师太太读到雅各书 5:16（上） 所以你们要彼此认罪，互相代求，使你们可以得医治。 于是，他们遵行上帝的话，彼此认罪。 奇妙的事情发生在遵行上帝话语之后。
+彼此相爱的人，却不能过好一个美好的婚姻生活
+(似乎只能在手机端微信里才能收看)</description>
     </item>
     
     <item>
-      <title>Math Support</title>
-      <link>/posts/math-support/</link>
-      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      <title>Prayers according to Psalm 119</title>
+      <link>/posts/prayers_according_to_psalm-119/</link>
+      <pubDate>Mon, 05 Apr 2021 11:21:10 -0500</pubDate>
       
-      <guid>/posts/math-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;</description>
+      <guid>/posts/prayers_according_to_psalm-119/</guid>
+      <description>Prayer for people in health conditionYou are my hiding place and my shield (v114)Ask MercyDeal with your servant according to your steadfast love (v124)
+My eyes long for your salvation / healing (v123)
+Uphold me according to your promise, that I may live, and let me not be put to shame in my hope! (v116)
+Hold me up, that I may be safe (v117)Ask for Spiritual GrowthI am your servant; give me understanding, that I may know your words (v125)</description>
     </item>
     
     <item>
-      <title>Featured Image</title>
-      <link>/posts/featured-image/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <title>Weblinks</title>
+      <link>/posts/weblinks/</link>
+      <pubDate>Mon, 05 Apr 2021 11:21:09 -0500</pubDate>
       
-      <guid>/posts/featured-image/</guid>
-      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>/posts/weblinks/</guid>
+      <description>Andris Stanga’s Blog on Psalm 119
+Parallel Layout of Hebrew and KJV</description>
     </item>
     
   </channel>

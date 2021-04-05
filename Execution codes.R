@@ -1,10 +1,16 @@
 library(blogdown)
 
-blogdown::new_content("D:/A_Blog/psalm119/content/posts/Prayers_according_to_Psalm 119(1).rmd")
+# Docs----
+blogdown::new_content("D:/A_Blog/psalm119/content/docs/psalm119.rmd")
 
-blogdown::new_content("D:/A_Blog/psalm119/content/docs/psalm119(1).rmd")
+blogdown::new_content("D:/A_Blog/psalm119/content/docs/psalm_119/chapter-3.rmd")
 
-blogdown::bundle_site("D:/A_Blog/psalm119/content/posts/poem_02.rmd")
+# Posts----
+blogdown::new_content("D:/A_Blog/psalm119/content/posts/Weblinks.rmd")
+
+blogdown::new_content("D:/A_Blog/psalm119/content/posts/Prayers_according_to_Psalm 119.rmd")
+
+blogdown::new_content("D:/A_Blog/psalm119/content/posts/Walk_in_the_Law_of_God.rmd")
 
 blogdown::build_site()
 
@@ -29,4 +35,6 @@ blogdown::find_hugo()
 
 #----
 # the image file at the homepage is stored in .\themes\hugo-eureka\assets\images. 
-# Then I need to change the previous one in params.yaml.
+# Then I need to change the previous one at D:\A_Blog\psalm119\config\_defaul\ params.yaml.
+
+# change footer at D:\A_Blog\psalm119\themes\hugo-eureka\layouts\partials\footer.html
