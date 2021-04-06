@@ -7,14 +7,13 @@ draft: false
 lastmod: "2021-04-05"
 series: null
 tags: null
-title: 顺从耶和华的律法 (9-16)
+title: 2. 顺从耶和华的律法 (9-16)
 toc: true
 ---
 
-诗篇 119:9-16  
 
 <!--more-->
-
+### 和合本
 9 少年人用什么洁净他的行为呢？是要遵行你的话！  
 10 我一心寻求了你；求你不要叫我偏离你的命令。  
 11 我将你的话藏在心里，免得我得罪你。  
@@ -24,7 +23,9 @@ toc: true
 15我要默想你的训词，看重你的道路。  
 16我要在你的律例中自乐；我不忘记你的话。  
 
-Beth
+
+### ESV
+**Beth**  
 9 How can a young man keep his way pure? By guarding it according to your word.  
 10 With my whole heart I seek you; let me not wander from your commandments!  
 11 I have stored up your word in my heart, that I might not sin against you.  

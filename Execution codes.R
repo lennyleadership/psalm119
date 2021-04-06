@@ -3,7 +3,7 @@ library(blogdown)
 # Docs----
 blogdown::new_content("D:/A_Blog/psalm119/content/docs/psalm119.rmd")
 
-blogdown::new_content("D:/A_Blog/psalm119/content/docs/psalm_119/chapter-3.rmd")
+blogdown::new_content("D:/A_Blog/psalm119/content/docs/psalm_119/chapter-4.md")
 
 # Posts----
 blogdown::new_content("D:/A_Blog/psalm119/content/posts/Weblinks.rmd")
