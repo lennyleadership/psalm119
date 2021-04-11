@@ -1,5 +1,5 @@
 ---
-title: Psalm119 ESV
+title: Psalm 119 ESV
 description:
 toc: true
 authors: []
