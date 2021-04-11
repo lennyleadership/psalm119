@@ -11,10 +11,11 @@ title: 1. 耶和华的律法 (1-8)
 toc: true
 ---
 
-诗篇119：1-8.
+
 
 <!--more-->
 
+## 和合本
 1 行为完全、遵行耶和华律法的，这人便为有福！  
 2 遵守他的法度、一心寻求他的，这人便为有福！  
 3 这人不做非义的事，但遵行他的道。  
@@ -24,6 +25,7 @@ toc: true
 7 我学了你公义的判语，就要以正直的心称谢你。  
 8 我必守你的律例；求你总不要丢弃我！    
 
+## ESV  
 1 Blessed are those whose way is blameless, who walk in the law of the Lord!  
 2 Blessed are those who keep his testimonies, who seek him with their whole heart,  
 3 who also do no wrong, but walk in his ways!  

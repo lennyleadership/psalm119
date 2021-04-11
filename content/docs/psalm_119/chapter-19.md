@@ -11,7 +11,7 @@ title: 19. 求主解救 (145-152)
 toc: true
 ---
 
-## 19. 求主解救 (145-152)
+## 和合本
 145 耶和华啊，我一心呼吁你；求你应允我，我必谨守你的律例！  
 146 我向你呼吁，求你救我！我要遵守你的法度。  
 147 我趁天未亮呼求；我仰望了你的言语。  
@@ -21,6 +21,7 @@ toc: true
 151 耶和华啊，你与我相近；你一切的命令尽都真实！  
 152 我因学你的法度，久已知道是你永远立定的。  
 
+## ESV  
 **Qoph**  
 145 With my whole heart I cry; answer me, O Lord! I will keep your statutes.   
 146 I call to you; save me, that I may observe your testimonies.   
