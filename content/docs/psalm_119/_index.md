@@ -11,5 +11,5 @@ title: Psalm 119
 toc: true
 ---
 
-Here are Chinese version and ESV version.
+收集整理了灵修诗篇119篇的点滴想法。
 

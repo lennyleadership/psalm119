@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-04-05"
 series: null
 tags: null
-title: 耶和华的律法 (1-8)
+title: 1. 耶和华的律法 (1-8)
 toc: true
 ---
 

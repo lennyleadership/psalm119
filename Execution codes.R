@@ -12,6 +12,8 @@ blogdown::new_content("D:/A_Blog/psalm119/content/posts/Prayers_according_to_Psa
 
 blogdown::new_content("D:/A_Blog/psalm119/content/posts/Walk_in_the_Law_of_God.rmd")
 
+
+#----
 blogdown::build_site()
 
 blogdown::serve_site()
