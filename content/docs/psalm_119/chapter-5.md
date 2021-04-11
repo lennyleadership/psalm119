@@ -21,7 +21,7 @@ toc: true
 151 耶和华啊，你与我相近；你一切的命令尽都真实！  
 152 我因学你的法度，久已知道是你永远立定的。  
 
-**Qoph**
+**Qoph**  
 145 With my whole heart I cry; answer me, O Lord! I will keep your statutes.   
 146 I call to you; save me, that I may observe your testimonies.   
 147 I rise before dawn and cry for help; I hope in your words.   
