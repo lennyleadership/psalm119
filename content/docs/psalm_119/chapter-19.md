@@ -31,3 +31,5 @@ toc: true
 150 They draw near who persecute me with evil purpose; they are far from your law.   
 151 But you are near, O Lord, and all your commandments are true.   
 152 Long have I known from your testimonies that you have founded them forever.   
+
+## Meditation 默想

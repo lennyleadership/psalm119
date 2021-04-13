@@ -34,9 +34,11 @@ toc: true
 143 Trouble and anguish have found me out, but your commandments are my delight.   
 144 Your testimonies are righteous forever; give me understanding that I may live.  
 
-## Meditation  
+## Meditation 默想
 本部分的中心转到了**耶和华的话**，所以小标题应该是**耶和华的话**。   
 
-第139节：我见到北美教会对上帝话语冷淡，也有如此心情。   
+139 我心焦急，如同火烧，因我敌人忘记你的言语。  
+作者在第139节里用“我心焦急，如同火烧”表达心情。我见到北美教会对上帝话语冷淡，也有如此心情。     
 
-作者在第139节里用“我心焦急，如同火烧”表达心情。
+在第136节 我的眼泪下流成河，因为他们不守你的律法。  
+作者用“眼泪下流成河”来形容心情。

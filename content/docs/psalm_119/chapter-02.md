@@ -34,3 +34,5 @@ toc: true
 14 In the way of your testimonies I delight as much as in all riches.  
 15 I will meditate on your precepts and fix my eyes on your ways.  
 16 I will delight in your statutes; I will not forget your word.  
+
+## Meditation 默想
