@@ -1,16 +1,16 @@
 library(blogdown)
 
 # Docs----
-blogdown::new_content("D:/A_Blog/psalm119/content/docs/psalm119.rmd")
+blogdown::new_content("D:/A_Blog/psalm119/content/docs/psalm119.md")
 
-blogdown::new_content("D:/A_Blog/psalm119/content/docs/psalm_119/chapter-4.md")
+blogdown::new_content("D:/A_Blog/psalm119/content/docs/psalm 119_ESV.md")
 
 # Posts----
-blogdown::new_content("D:/A_Blog/psalm119/content/posts/Weblinks.rmd")
+blogdown::new_content("D:/A_Blog/psalm119/content/posts/Weblinks.md")
 
-blogdown::new_content("D:/A_Blog/psalm119/content/posts/Prayers_according_to_Psalm 119.rmd")
+blogdown::new_content("D:/A_Blog/psalm119/content/posts/Prayers_according_to_Psalm 119.md")
 
-blogdown::new_content("D:/A_Blog/psalm119/content/posts/Walk_in_the_Law_of_God.rmd")
+blogdown::new_content("D:/A_Blog/psalm119/content/posts/Walk_in_the_Law_of_God.md")
 
 
 #----
