@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-04-11"
 series: null
 tags: null
-title: 2. 顺从耶和华的律法 (9-16)
+title: 02. 顺从耶和华的律法 (9-16)
 toc: true
 ---
 
