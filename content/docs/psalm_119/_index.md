@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-04-11"
 series: null
 tags: null
-title: Psalm 119
+title: Meditation on Psalm 119
 toc: true
 ---
 

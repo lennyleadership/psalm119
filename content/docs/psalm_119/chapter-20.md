@@ -22,7 +22,7 @@ toc: true
 160 你话的总纲是真实；你一切公义的典章是永远长存。  
 
 ## ESV  
-**Resh**
+**Resh**  
 153 Look on my affliction and deliver me, for I do not forget your law.  
 154 Plead my cause and redeem me; give me life according to your promise!  
 155 Salvation is far from the wicked, for they do not seek your statutes.  
