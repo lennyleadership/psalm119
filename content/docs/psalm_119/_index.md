@@ -11,5 +11,7 @@ title: Meditation on Psalm 119
 toc: true
 ---
 
-收集整理了灵修诗篇119篇的点滴想法。
+收集整理了灵修诗篇119篇的点滴想法。  
+
+This is the collection of my meditation on Psalm 119.
 

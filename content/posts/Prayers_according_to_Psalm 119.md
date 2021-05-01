@@ -13,6 +13,9 @@ featuredImage:
 draft: false
 ---
 
+### Prayer for people in difficult time
+1. Look on my affliction and deliver me, for I do not forget your law (v153).  
+
 ### Prayer for people in health condition  
 1. You are my hiding place and my shield (v114)  
 
