@@ -23,7 +23,7 @@ toc: true
 168 我遵守了你的训词和法度，因我一切所行的都在你面前。  
 
 ## ESV  
-**Sin and Shin**
+**Sin and Shin**  
 161 Princes persecute me without cause, but my heart stands in awe of your words.  
 162 I rejoice at your word like one who finds great spoil.   
 163 I hate and abhor falsehood, but I love your law.   
@@ -36,5 +36,5 @@ toc: true
 ## Meditation 默想
 
 过去的五年里，我在工作和生活中经历过161和165节经文里作者描述的心路。我更喜欢 Message 译本  
-161 I've been slandered unmercifully by the politicians, but my awe at your words keeps me stable.
-165 For those who love what you reveal, everything fits — no stumbling around in the dark for them.
+161 I've been slandered unmercifully by the politicians, but my awe at your words keeps me stable.  
+165 For those who love what you reveal, everything fits — no stumbling around in the dark for them.  
