@@ -24,7 +24,7 @@ toc: true
 
 
 ## ESV  
-**Sin and Shin**  
+**Taw**  
 169 Let my cry come before you, O Lord; give me understanding according to your word!  
 170 Let my plea come before you; deliver me according to your word.  
 171 My lips will pour forth praise, for you teach me your statutes.  

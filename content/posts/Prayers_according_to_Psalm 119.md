@@ -14,16 +14,18 @@ draft: false
 ---
 
 ### Prayer for people in difficult time
-1. Look on my affliction and deliver me, for I do not forget your law (v153).  
+1. Look on my affliction and deliver me, for I do not forget your law. (v153)  
 
 ### Prayer for people in health condition  
-1. You are my hiding place and my shield (v114)  
+1. You are my hiding place and my shield. (v114)  
 
 ### Ask Mercy
-1. Deal with your servant according to your steadfast love (v124)  
-2. My eyes long for your salvation / healing (v123)  
+1. Deal with your servant according to your steadfast love. (v124)  
+2. My eyes long for your salvation / healing. (v123)  
 3. Uphold me according to your promise, that I may live, and let me not be put to shame in my hope! (v116)  
-4. Hold me up, that I may be safe (v117)
+4. Hold me up, that I may be safe. (v117)
 
 ### Ask for Spiritual Growth
-1. I am your servant; give me understanding, that I may know your words (v125)  
+1. I am your servant; give me understanding, that I may know your words. (v125)  
+2. Keep steady my steps according to your promise, and let no iniquity get dominion over me. (v133)  
+
