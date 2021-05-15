@@ -205,13 +205,6 @@ weight: 1
 135 求你用脸光照仆人，又将你的律例教训我。  
 136 我的眼泪下流成河，因为他们不守你的律法。  
 
-<div style="background-color:#add8e6; font-family: Calibri;
-  font-size: 14px;text-align:left; vertical-align: middle;">
-注 17.1 
-
-130节：参见105节
-
-</div>
 
 ## 18. 耶和华律法的公正 (137-144)  
 137 耶和华啊，你是公义的；你的判语也是正直的！  
