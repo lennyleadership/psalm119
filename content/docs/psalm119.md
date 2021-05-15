@@ -182,13 +182,7 @@ weight: 1
 118 凡**偏离你律例的人**，你都轻弃他们，因为他们的诡诈必归虚空。  
 119 凡地上的**恶人**，你除掉他，好像除掉渣滓；因此我爱你的法度。  
 120 我因惧怕你，肉就发抖；我也怕你的判语。  
-<div style="background-color:#add8e6; font-family: Calibri;
-  font-size: 14px;text-align:left; vertical-align: middle;">
 
-注 #15.1:  
-这段经文的标题可以是：求主把我从恶人手中救出来。
-
-</div>
 
 ## 16. 遵从耶和华的律法 (121-128)  
 121 我行过公平和公义，求你不要撇下我给**欺压**我的人！  
@@ -199,57 +193,7 @@ weight: 1
 126 这是耶和华降罚的时候，因人废了你的律法。  
 127 所以，我爱你的命令胜于金子，更胜于精金。  
 128 你一切的训词，在万事上我都以为正直；我却恨恶一切假道。  
-<div style="background-color:#add8e6; font-family: Calibri;
-  font-size: 14px;text-align:left; vertical-align: middle;">
 
-注 #16.1：  
-
-1)
-I wanted to get your interpretation of "fail for" in verse 123 "Mine eyes fail for thy salvation, and for the word of thy righteousness."  (KJV) or "My eyes strain to see your rescue" (NLT).
-
-ESV translated it as my eyes "long for" your salvation.  The Chinese version puts it this way: I long for your salvation and your righteous word to the extent that my eyes turn to the blind.
-
-What was the meaning of "fail for" in the KJV time?
-
-What is the real meaning of this verse?
-
-2)
-verse 116 says this: "Lord, sustain me as you promised, that I may live! Do not let my hope be crushed." (NLT)
-
-I am wondering verse 123 falls in line with verse 116.  The context of author's crying out for God's help (salvation) flows through this psalm.  "My eyes fail for your salvation" could be portraited as if the man was weeping in desperate, he was patiently holding his hope to God to the extent that his eyes ran dry and turned to blind.  
-
-***
-注 #16.2:   
-诗篇 6:6 我因唉哼而困乏；我每夜流泪，把床榻漂起，把褥子湿透。  
-诗篇 6:7   我因忧愁眼睛干瘪，又因我一切的敌人眼睛昏花。  
-诗篇 13:1-3 耶和华啊，你忘记我要到几时呢？要到永远吗？你掩面不顾我要到几时呢？我心里筹算，终日愁苦，要到几时呢？我的仇敌升高压制我，要到几时呢？耶和华我的神啊，求你看顾我，应允我！使我眼目光明，免得我沉睡至死；  
-诗篇 88:9  我的眼睛因困苦而干瘪。耶和华啊，我天天求告你，向你举手。  
-诗篇 69:3  我因呼求困乏，喉咙发干；我因等候神，眼睛失明。  
-诗篇 119:82  我因盼望你的应许眼睛失明，说：“你何时安慰我？”  
-
-以赛亚书 38:14  我像燕子呢喃，像白鹤鸣叫，又像鸽子哀鸣；我因仰观，眼睛困倦。耶和华啊，我受欺压，求你为我作保。  
-
-申命记 28:32你的儿女必归与别国的民；你的眼目终日切望，甚至失明，你手中无力拯救。  
-
-约伯记 11:20  但恶人的眼目必要失明。他们无路可逃；他们的指望就是气绝。”  
-约伯记 16:16  我的脸因哭泣发紫，在我的眼皮上有死荫。  
-
-耶利米哀歌 2:11 我眼中流泪，以致失明；我的心肠扰乱，肝胆涂地，都因我众民遭毁灭，又因孩童和吃奶的在城内街上发昏。
-
----
-注 #16.3:  
-如何表达内心的渴慕呢？  
-
-第123节提到眼睛-望眼欲穿  
-123 我因盼望你的救恩和你公义的话眼睛失明。  
-
-第131节提到口 - 想象一下动物口渴是张大嘴的画面  
-131 我张口而气喘，因我切慕你的命令。  
-
-关联经文有：  
-诗42:1 神啊，我的心切慕你，如鹿切慕溪水。  
-
-</div>
 
 ## 17. 渴慕遵行耶和华的律法 (129-136)  
 129 你的法度**奇妙**，所以我一心谨守。  
