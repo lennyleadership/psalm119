@@ -26,7 +26,7 @@ toc: true
 
 
 ## ESV
-**Gimel**
+**Gimel**  
 17 Deal bountifully with your servant, that I may live and keep your word.  
 18 Open my eyes, that I may behold wondrous things out of your law.  
 19 I am a sojourner on the earth; hide not your commandments from me!  
