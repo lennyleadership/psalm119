@@ -31,5 +31,5 @@ This is the collection of my meditation on Psalm 119.
 <sup>6</sup> By this we may know that we are in him: whoever says he abides in him ought to walk in the same way in which he walked.   
 
 ___
-    ### 默想：  
-世上只有一个人可以说他遵守了主的道，并且上帝的爱在他里面是完全的，那人就是耶稣。  
+    默想：  
+    世上只有一个人可以说他遵守了主的道，并且上帝的爱在他里面是完全的，那人就是耶稣。  
