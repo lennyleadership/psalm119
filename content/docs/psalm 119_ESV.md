@@ -49,10 +49,10 @@ weight: 2
 29 Put false ways far from me and graciously teach me your law!  
 30 I have chosen the way of faithfulness; I set your rules before me.  
 31 I cling to your testimonies, O Lord; let me not be put to shame!  
-32 I will run in the way of your commandments when you enlarge my heart![e]  
+32 I will run in the way of your commandments when you enlarge my heart!  
 
 ## 5 He
-33 Teach me, O Lord, the way of your statutes; and I will keep it to the end.[f]  
+33 Teach me, O Lord, the way of your statutes; and I will keep it to the end.  
 34 Give me understanding, that I may keep your law and observe it with my whole heart.  
 35 Lead me in the path of your commandments, for I delight in it.  
 36 Incline my heart to your testimonies, and not to selfish gain!  
