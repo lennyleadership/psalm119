@@ -4,7 +4,7 @@ categories: null
 date: "2021-04-11"
 description: Psalm 119
 draft: false
-lastmod: "2021-04-11"
+lastmod: "2021-07-01"
 series: null
 tags: 
 - Psalms
@@ -14,7 +14,7 @@ toc: true
 
 收集整理了灵修诗篇119篇的点滴想法。  
 
-This is the collection of my meditation on Psalm 119.
+This is the collection of my meditation on Psalm ^119.
 
 
 ## 遵守上帝话语相关经文  
@@ -30,3 +30,6 @@ This is the collection of my meditation on Psalm 119.
 ^5 but whoever keeps his word, in him truly the love of God is perfected.   
 ^6 By this we may know that we are in him: whoever says he abides in him ought to walk in the same way in which he walked.   
 
+___
+默想：  
+世上只有一个人可以说他遵守了主的道，并且上帝的爱在他里面是完全的，那人就是耶稣。  
