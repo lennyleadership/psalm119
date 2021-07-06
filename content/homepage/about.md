@@ -3,7 +3,7 @@ title: Psalm 119
 draft: false
 role: Lenny Lin
 avatar: images/icon.jpg
-bio: I committed my life to the Lord Jesus in 1996. I have being dedicated my efforts to meditate and memorize Psalm 119 since September 2019.  This blog shares my meditation so they could inspire you to pursue Jesus.
+bio: I committed my life to the Lord Jesus in 1996. <br />I have being dedicated my efforts to meditate and memorize Psalm 119 since September 2019.  <br />This blog shares my meditation so they could inspire you to pursue Jesus.
 social:
 - icon: envelope
   iconPack: fas

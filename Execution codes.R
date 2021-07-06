@@ -1,5 +1,10 @@
 library(blogdown)
 
+# Syntax ----
+# <span style="text-decoration:underline">underline this text</span>
+# <mark>highlight this text</mark>
+# markdown guide: https://ia.net/writer/support/general/markdown-guide
+
 # Docs----
 blogdown::new_content("D:/A_Blog/psalm119/content/docs/psalm119.md")
 
