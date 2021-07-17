@@ -1,7 +1,7 @@
 library(blogdown)
 
 # Syntax ----
-# <span style="text-decoration:underline">underline this text</span>
+# <span style="text-decoration:underline">  underline this text  </span>
 # <mark>highlight this text</mark>
 # markdown guide: https://ia.net/writer/support/general/markdown-guide
 
