@@ -36,13 +36,14 @@ toc: true
 ## Meditation 默想
       
       注：在第66节中，诗人向上帝祷告，求你将精明和知识赐给我。  
+      
       我们求什么样的“精明”和“知识”呢？上帝没有责备我们向祂求应付职场复杂人际关系的“精明”和“知识”。我们也应当向上帝赤露心扉，求上帝帮我们。  
       
       我不禁在揣摩诗人的心思。
       
       今日的上帝似乎回应了诗人的祷告，当把我自己代入这段语境中的诗人时，我在求智慧。而上帝在林前1:30 里启示给我们，耶稣就是那智慧。
-
-林前1:30 ... 神又使他成为我们的智慧、公义、圣洁、救赎。  
-
-(ESV) Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption,  
+      
+      林前1:30 ... 神又使他成为我们的智慧、公义、圣洁、救赎。  
+      
+      (ESV) Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption,  
 
