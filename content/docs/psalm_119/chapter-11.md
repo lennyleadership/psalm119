@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-08-01"
 series: null
 tags: null
-title: 11. 求主解救 (81-88)  
+title: 11. 跟随主脚踪 (81-88)  
 toc: true
 ---
 
@@ -59,3 +59,7 @@ toc: true
     (Revelation 14:4)  It is these who have not defiled themselves with women, for they are virgins. It is these who follow the Lamb wherever he goes. These have been redeemed from mankind as firstfruits for God and the Lamb,  
 
     诗篇119在这里有异曲同工的效果。虽然我们看到这篇诗篇整章是在讲要遵循上帝的话语，其实是要鼓励读者作一个跟随上帝的人。一个跟随上帝的人必定会听上帝的话。哪怕是最糟糕的环境下，也相信上帝，跟随上帝。  
+    
+    ____
+    
+    有一本圣经给这段加上的小标题是：求主解救。我将它改为跟随主脚踪。
