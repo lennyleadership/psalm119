@@ -24,15 +24,16 @@ toc: true
 
 
 ## ESV
-**Nun**
-105 Your word is a lamp to my feet and a light to my path.  
-106 I have sworn an oath and confirmed it, to keep your righteous rules.  
-107 I am severely afflicted; give me life, O Lord, according to your word!  
-108 Accept my freewill offerings of praise, O Lord, and teach me your rules.  
-109 I hold my life in my hand continually, but I do not forget your law.  
-110 The wicked have laid a snare for me, but I do not stray from your precepts.  
-111 Your testimonies are my heritage forever, for they are the joy of my heart.  
-112 I incline my heart to perform your statutes forever, to the end.   
+**Lamedh**
+89 Forever, O Lord, your word is firmly fixed in the heavens.  
+90 Your faithfulness endures to all generations; you have established the earth, and it stands fast.  
+91 By your appointment they stand this day, for all things are your servants.  
+92 If your law had not been my delight, I would have perished in my affliction.  
+93 I will never forget your precepts, for by them you have given me life.  
+94 I am yours; save me, for I have sought your precepts.  
+95 The wicked lie in wait to destroy me, but I consider your testimonies.  
+96 I have seen a limit to all perfection, but your commandment is exceedingly broad.  
+
 
 ## Meditation 默想
 
