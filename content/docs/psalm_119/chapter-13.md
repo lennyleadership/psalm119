@@ -1,0 +1,42 @@
+---
+authors: null
+categories: null
+date: "2021-04-11"
+description: 
+draft: false
+lastmod: "2021-08-01"
+series: null
+tags: null
+title: 13. 喜爱耶和华的律法 (97-104)  
+toc: true
+---
+
+## 和合本
+
+97  我何等爱慕你的律法，终日不住地思想。  
+98  你的命令常存在我心里，使我比仇敌有智慧。  
+99  我比我的师傅更通达，因我思想你的法度。  
+100 我比年老的更明白，因我守了你的训词。  
+101 我禁止我脚走一切的邪路，为要遵守你的话。  
+102 我没有偏离你的典章，因为你教训了我。  
+103 你的言语在我上膛何等甘美，在我口中比蜜更甜！  
+104 我借着你的训词得以明白，所以我恨一切的假道。  
+
+
+
+## ESV
+**Mem**  
+97 Oh how I love your law! It is my meditation all the day.  
+98 Your commandment makes me wiser than my enemies, for it is ever with me.  
+99 I have more understanding than all my teachers, for your testimonies are my meditation.  
+100 I understand more than the aged,[h] for I keep your precepts.  
+101 I hold back my feet from every evil way, in order to keep your word.  
+102 I do not turn aside from your rules, for you have taught me.  
+103 How sweet are your words to my taste, sweeter than honey to my mouth!  
+104 Through your precepts I get understanding; therefore I hate every false way.  
+
+
+## Meditation 默想
+
+    注：作者写到这段的时候，没有向上帝求什么，仿佛在享受片刻安息的时光。可能好比是白天被周遭的人事物搞得焦头烂额后，到了晚上周围也消停下来。  
+    作者在这段里，向上帝表达了感恩之心！感谢上帝使他有更有智慧，得以分辨善恶之道，保守自己走在正道上。  
