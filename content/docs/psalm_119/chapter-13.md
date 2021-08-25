@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-08-01"
 series: null
 tags: null
-title: 13. 喜爱耶和华的律法 (97-104)  
+title: 13.  智慧的源头 (97-104)  
 toc: true
 ---
 
@@ -40,3 +40,9 @@ toc: true
 
     注：作者写到这段的时候，没有向上帝求什么，仿佛在享受片刻安息的时光。可能好比是白天被周遭的人事物搞得焦头烂额后，到了晚上周围也消停下来。  
     作者在这段里，向上帝表达了感恩之心！感谢上帝使他有更有智慧，得以分辨善恶之道，保守自己走在正道上。  
+    这段经文是在说耶和华话语里有智慧，使我得智慧。  
+    
+    这段经文仿佛在呼应下面的经文：  
+    箴9:10敬畏耶和华是智慧的开端；认识至圣者便是聪明。  
+    Proverb9:10 The fear of the Lord is the beginning of wisdom,
+and the knowledge of the Holy One is insight.
