@@ -42,7 +42,7 @@ toc: true
     作者在这段里，向上帝表达了感恩之心！感谢上帝使他有更有智慧，得以分辨善恶之道，保守自己走在正道上。  
     这段经文是在说耶和华话语里有智慧，使我得智慧。  
     
-    这段经文仿佛在呼应下面的经文：  
-    箴9:10敬畏耶和华是智慧的开端；认识至圣者便是聪明。  
-    Proverb9:10 The fear of the Lord is the beginning of wisdom,
+    这段经文仿佛在诠释下面的经文：  
+    箴9:10 敬畏耶和华是智慧的开端；认识至圣者便是聪明。  
+    Proverb 9:10 The fear of the Lord is the beginning of wisdom,
 and the knowledge of the Holy One is insight.
