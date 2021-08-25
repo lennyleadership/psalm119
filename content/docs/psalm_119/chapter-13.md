@@ -43,6 +43,6 @@ toc: true
     这段经文是在说耶和华话语里有智慧，使我得智慧。  
     
     这段经文仿佛在诠释下面的经文：  
-    箴9:10 敬畏耶和华是智慧的开端；认识至圣者便是聪明。  
-    Proverb 9:10 The fear of the Lord is the beginning of wisdom,
+    箴 9:10 敬畏耶和华是智慧的开端；认识至圣者便是:聪 明。  
+    Proverb 9:10 The fear of the Lord is the beginning of wisdom,
 and the knowledge of the Holy One is insight.
