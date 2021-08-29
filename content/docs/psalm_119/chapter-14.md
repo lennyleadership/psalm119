@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-08-01"
 series: null
 tags: null
-title: 14. 耶和华律法的亮光 (105-112)  
+title: 14. 献上感恩为祭物 (105-112)  
 toc: true
 ---
 
@@ -24,7 +24,7 @@ toc: true
 
 
 ## ESV
-**Nun**
+**Nun**  
 105 Your word is a lamp to my feet and a light to my path.  
 106 I have sworn an oath and confirmed it, to keep your righteous rules.  
 107 I am severely afflicted; give me life, O Lord, according to your word!  
