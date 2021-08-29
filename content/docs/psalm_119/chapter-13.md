@@ -29,7 +29,7 @@ toc: true
 97 Oh how I love your law! It is my meditation all the day.  
 98 Your commandment makes me wiser than my enemies, for it is ever with me.  
 99 I have more understanding than all my teachers, for your testimonies are my meditation.  
-100 I understand more than the aged,[h] for I keep your precepts.  
+100 I understand more than the aged for I keep your precepts.  
 101 I hold back my feet from every evil way, in order to keep your word.  
 102 I do not turn aside from your rules, for you have taught me.  
 103 How sweet are your words to my taste, sweeter than honey to my mouth!  
@@ -43,6 +43,5 @@ toc: true
     这段经文是在说耶和华话语里有智慧，使我得智慧。  
     
     这段经文仿佛在诠释下面的经文：  
-    箴 9:10 敬畏耶和华是智慧的开端；认识至圣者便是:聪 明。  
-    Proverb 9:10 The fear of the Lord is the beginning of wisdom,
-and the knowledge of the Holy One is insight.
+    箴 9:10 敬畏耶和华是智慧的开端；认识至圣者便是聪明。  
+    Proverb 9:10 The fear of the Lord is the beginning of wisdom, and the knowledge of the Holy One is insight.
