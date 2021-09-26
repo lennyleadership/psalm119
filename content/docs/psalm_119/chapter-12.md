@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-08-01"
 series: null
 tags: null
-title: 12. 信赖耶和华的律法 (89-96)
+title: 12. 因耶和华的话敬拜耶和华 (89-96)
 toc: true
 ---
 
