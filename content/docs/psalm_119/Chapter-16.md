@@ -87,3 +87,10 @@ I am wondering verse 123 falls in line with verse 116.  The context of author's 
 诗42:1 神啊，我的心切慕你，如鹿切慕溪水。  
 
 </div>
+
+___
+
+    申31:8 (摩西对约书亚说：)耶和华必在你前面行；他必与你同在，必不撇下你，也不丢弃你。不要惧怕，也不要惊惶。
+    It is the Lord who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed.
+    
+    希伯来书13:5又引用了申31:8这段经文。诗篇作者在这里将这段经文演绎成他的祷告词。仿佛作者看不到上帝的应许临到他身上。你会怎么办？
