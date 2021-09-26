@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-04-11"
 series: null
 tags: null
-title: 18. 耶和华律法的公正 (137-144)
+title: 18. 因耶和华的话敬拜耶和华 (137-144)
 toc: true
 ---
 
