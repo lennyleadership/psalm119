@@ -29,9 +29,9 @@ This is the collection of my meditation on Psalm 119.
 <sup>5</sup> but whoever keeps his word, in him truly the love of God is perfected.   
 <sup>6</sup> By this we may know that we are in him: whoever says he abides in him ought to walk in the same way in which he walked.   
 
-
     默想：  
     世上只有一个人可以说他遵守了主的道，并且上帝的爱在他里面是完全的，那人就是耶稣。  
+    
     诗篇119篇一方面开我们的悟性认识上帝的话，另一方面又让我们知道我们是做不到的，于是上帝的儿子降世为人，让我们可以经历到，看到耶稣的生命。  
 
 
@@ -42,3 +42,6 @@ This is the collection of my meditation on Psalm 119.
 
     默想：
     遵守主道的，必有厚报。
+    
+# 陈希曾：诗篇综览
+<a href = "https://www.youtube.com/watch?v=8J2J24J4s5o">诗篇综览V 神活泼的话语05</a> 提到诗篇119篇(1:05:48) 
