@@ -42,19 +42,19 @@ toc: true
 
 若有人被逆境击垮，很能理解。若有人能逆境飞扬，鲜有人能做得到。若有人像约伯一样说：  
 
-伯 42:1  约伯回答耶和华说：  
-伯 42:2  我知道，你万事都能做；你的旨意不能拦阻。 
-伯 42:3  谁用无知的言语使你的旨意隐藏呢？我所说的是我不明白的；这些事太奇妙，是我不知道的。 
-伯 42:4  求你听我，我要说话；我问你，求你指示我。 
-伯 42:5  我从前风闻有你，现在亲眼看见你。 
-伯 42:6  因此我厌恶自己（或作：我的言语），在尘土和炉灰中懊悔。 
+伯 42:1  约伯回答耶和华说：    
+伯 42:2  我知道，你万事都能做；你的旨意不能拦阻。   
+伯 42:3  谁用无知的言语使你的旨意隐藏呢？我所说的是我不明白的；这些事太奇妙，是我不知道的。   
+伯 42:4  求你听我，我要说话；我问你，求你指示我。   
+伯 42:5  我从前风闻有你，现在亲眼看见你。   
+伯 42:6  因此我厌恶自己（或作：我的言语），在尘土和炉灰中懊悔。   
 
 AMP Version  
-Job 42:1  Then Job answered the LORD and said, 
-Job 42:2  "I know that You can do all things, And that no thought or purpose of Yours can be restrained. 
-Job 42:3  "[You said to me] 'Who is this that darkens and obscures counsel [by words] without knowledge?' Therefore [I now see] I have [rashly] uttered that which I did not understand, Things too wonderful for me, which I did not know. [Job_38:2] 
-Job 42:4  'Hear, please, and I will speak; I will ask You, and You instruct [and answer] me.' 
-Job 42:5  "I had heard of You [only] by the hearing of the ear, But now my [spiritual] eye sees You. 
-Job 42:6  "Therefore I retract [my words and hate myself] And I repent in dust and ashes." 
+Job 42:1  Then Job answered the LORD and said,   
+Job 42:2  "I know that You can do all things, And that no thought or purpose of Yours can be restrained.   
+Job 42:3  "[You said to me] 'Who is this that darkens and obscures counsel [by words] without knowledge?' Therefore [I now see] I have [rashly] uttered that which I did not understand, Things too wonderful for me, which I did not know. [Job_38:2]   
+Job 42:4  'Hear, please, and I will speak; I will ask You, and You instruct [and answer] me.'   
+Job 42:5  "I had heard of You [only] by the hearing of the ear, But now my [spiritual] eye sees You.   
+Job 42:6  "Therefore I retract [my words and hate myself] And I repent in dust and ashes."   
 
 这人一定认识了上帝，还学会了在各样处境中赞美上帝。  
