@@ -35,6 +35,16 @@ toc: true
 7 I will praise you with an upright heart, when I learn your righteous rules.  
 8 I will keep your statutes; do not utterly forsake me!  
 
+## AMP
+1  How blessed and favored by God are those whose way is blameless [those with personal integrity, the upright, the guileless], Who walk in the law [and who are guided by the precepts and revealed will] of the LORD.   
+2  Blessed and favored by God are those who keep His testimonies, And who [consistently] seek Him and long for Him with all their heart.   
+3  They do no unrighteousness; They walk in His ways. [1Jn_3:9; 1Jn_5:18]   
+4  You have ordained Your precepts, That we should follow them with [careful] diligence.   
+5  Oh, that my ways may be established To observe and keep Your statutes [obediently accepting and honoring them]!   
+6  Then I will not be ashamed When I look [with respect] to all Your commandments [as my guide].   
+7  I will give thanks to You with an upright heart, When I learn [through discipline] Your righteous judgments [for my transgressions].   
+8  I shall keep Your statutes; Do not utterly abandon me [when I fail].   
+
 ## Meditation 默想
 7 我学了你公义的判语，就要以正直的心称谢你。(和合本） 
 
