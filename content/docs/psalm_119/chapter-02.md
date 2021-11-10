@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-04-11"
 series: null
 tags: null
-title: 02. 因耶和华的话敬拜耶和华 (9-16)
+title: 02. 耶和华啊，不要叫我得罪你 (9-16)
 toc: true
 ---
 
@@ -38,12 +38,12 @@ toc: true
 
 ## AMP
 9  Beth. How can a young man keep his way pure? By keeping watch [on himself] according to Your word [conforming his life to Your precepts].   
-10  With all my heart I have sought You, [inquiring of You and longing for You]; Do not let me wander from Your commandments [neither through ignorance nor by willful disobedience]. [2Ch_15:15]   
+10  With all my heart I have sought You, [inquiring of You and longing for You]; Do not let me wander from Your commandments [neither through ignorance nor by willful disobedience]. [2Ch 15:15]   
 11  Your word I have treasured and stored in my heart, That I may not sin against You.   
 12  Blessed and reverently praised are You, O LORD; Teach me Your statutes.   
 13  With my lips I have told of All the ordinances of Your mouth.   
 14  I have rejoiced in the way of Your testimonies, As much as in all riches.   
-15  I will meditate on Your precepts And [thoughtfully] regard Your ways [the path of life established by Your precepts]. [Psa_104:34]   
+15  I will meditate on Your precepts And [thoughtfully] regard Your ways [the path of life established by Your precepts]. [Psa 104:34]   
 16  I will delight in Your statutes; I will not forget Your word.   
 
 ## Meditation 默想

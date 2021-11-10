@@ -37,3 +37,5 @@ toc: true
 24 Your testimonies are my delight; they are my counselors.  
 
 ## Meditation 默想
+
+在第3节说到“我将你的话藏在心里”。到了第20节，说到“我时常切慕你的典章”。诗人不满足于得到的话语，还要更多，而且需要随时话语的供应。诱惑或试探对信徒是最难招架的，不少基督徒。

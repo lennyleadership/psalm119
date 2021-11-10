@@ -45,3 +45,11 @@ This is the collection of my meditation on Psalm 119.
     
 # 陈希曾：诗篇综览
 <a href = "https://www.youtube.com/watch?v=8J2J24J4s5o">诗篇综览V 神活泼的话语05</a> 提到诗篇119篇(1:05:48) 
+
+
+# My Utmost for His Highest by Oswald Chambers
+你们若爱我，就必遵守我的命令。（约十四15）  
+主并没有给我什么规条，他把标准说得很清楚；我若是爱他，会毫不犹豫去遵行他的话。若我犹豫不行，就表明我另有所爱，而这一位与他争竞的，就是我自己。- 选自《竭诚为主》11月2日 权柄与自主  
+
+If ye love Me, ye will keep My commandments. John 14:15 (RV)  
+The Lord does not give me rules, He makes His standard very clear, and if my relationship to Him is that of love, I will do what He says without any hesitation. If I hesitate, it is because I love someone else in competition with Him, viz., myself. Jesus Christ will not help me to obey Him, I must obey Him.   

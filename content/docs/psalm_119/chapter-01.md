@@ -7,7 +7,7 @@ draft: false
 lastmod: "2021-04-11"
 series: null
 tags: null
-title: 01. 耶和华的律法 (1-8)
+title: 01. 遵行耶和华律法的人有福了 (1-8)
 toc: true
 ---
 
