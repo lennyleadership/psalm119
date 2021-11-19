@@ -43,6 +43,11 @@ This is the collection of my meditation on Psalm 119.
     默想：
     遵守主道的，必有厚报。
     
+
+## 3) 箴言28:9
+转耳不听律法的，他的祈祷也为可憎。(和合本)
+If one turns away his ear from hearing the law, even his prayer is an abomination.(ESV)
+    
 # 陈希曾：诗篇综览
 <a href = "https://www.youtube.com/watch?v=8J2J24J4s5o">诗篇综览V 神活泼的话语05</a> 提到诗篇119篇(1:05:48) 
 
@@ -53,3 +58,6 @@ This is the collection of my meditation on Psalm 119.
 
 If ye love Me, ye will keep My commandments. John 14:15 (RV)  
 The Lord does not give me rules, He makes His standard very clear, and if my relationship to Him is that of love, I will do what He says without any hesitation. If I hesitate, it is because I love someone else in competition with Him, viz., myself. Jesus Christ will not help me to obey Him, I must obey Him.   
+
+# 体会
+2021.11.11  体会到唯有与上帝有亲密关系的人才有可能写出这篇诗篇。不然的话，“遵行上帝的话”就如同嚼蜡、没有感觉、被视为“律法主义”。  

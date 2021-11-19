@@ -37,3 +37,9 @@ toc: true
 32 I will run in the way of your commandments when you enlarge my heart![e]  
 
 ## Meditation 默想
+
+   MSG 译本  
+   30  I choose the true road to Somewhere, I post your road signs at every curve and corner.  
+   
+   对观经文
+   105 你的话是我脚前的灯，是我路上的光。  
