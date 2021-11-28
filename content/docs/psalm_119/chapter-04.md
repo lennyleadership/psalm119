@@ -34,7 +34,7 @@ toc: true
 29 Put false ways far from me and graciously teach me your law!  
 30 I have chosen the way of faithfulness; I set your rules before me.  
 31 I cling to your testimonies, O Lord; let me not be put to shame!  
-32 I will run in the way of your commandments when you enlarge my heart![e]  
+32 I will run in the way of your commandments when you enlarge my heart!  
 
 ## Meditation 默想
 
@@ -43,3 +43,13 @@ toc: true
    
    对观经文
    105 你的话是我脚前的灯，是我路上的光。  
+   
+   ___
+   作者的生命一定与众不同。因为一般的信徒刚刚遇到麻烦的时候，总在不停地问上帝，为什么是我？为什么是我？一般的信徒总会想办法使自己尽快地恢复到平常状态。但是，作者却抽出时间来，来到上帝面前，安静下来。承认上帝话语尽都可信。  
+
+    “我的性命几乎归于尘土”是怎样的一种生命体验呢？这节经文让我想起以下经文：  
+    哈巴谷 3:17  虽然无花果树不发旺，葡萄树不结果，橄榄树也不效力，田地不出粮食，圈中绝了羊，棚内也没有牛；  
+    哈巴谷3:18  然而，我要因耶和华欢欣，因救我的神喜乐。  
+    哈巴谷 3:19  主耶和华是我的力量；他使我的脚快如母鹿的蹄，又使我稳行在高处。这歌交与伶长，用丝弦的乐器。  
+
+    我们属灵生命几斤几两在困难面前都呈现在上帝面前。让我们效仿作者，立志作一个沉得住气的人，越是在困难的时候，越是要安静在主面前。  
