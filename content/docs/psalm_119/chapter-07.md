@@ -43,12 +43,15 @@ toc: true
 第49和50节是这段经文的核心。  
 ____
 
-与本段经文遥相呼应的经文：  
+    与本段经文遥相呼应的经文：  
 
-约16:33  我将这些事告诉你们，是要叫你们在我里面有平安。在世上，你们有苦难；但你们可以放心，我已经胜了世界。」   
+    约16:33  我将这些事告诉你们，是要叫你们在我里面有平安。在世上，你们有苦难；但你们可以放心，我已经胜了世界。」   
 
-Joh 16:33  I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.”     
+    Joh 16:33  I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.”     
 
 ____
-我觉得心里有了盼望，就有了平安。我们可以有情绪波动的经历，但是依然可以踏实地睡觉。  
-人在河里穿着救生衣游泳跟在地上行走的感受是不一样的。在水里呆久了，总想上岸。人在困境中就好比在水中。我们要学习像依靠救生衣一样地依靠上帝。  
+    我觉得心里有了盼望，就有了平安。我们可以有情绪波动的经历，但是依然可以踏实地睡觉。  
+    人在河里穿着救生衣游泳跟在地上行走的感受是不一样的。在水里呆久了，总想上岸。人在困境中就好比在水中。我们要学习像依靠救生衣一样地依靠上帝。  
+
+___
+    如果我满心欢喜耶和华的话语，我就会轻看这世界能给我的。(2021.12.08)
