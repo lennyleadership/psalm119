@@ -24,3 +24,8 @@ draft: false
 5 但愿我行事坚定，得以遵守你的律例。  
 34 求你赐我悟性，我便遵守你的律法，且要一心遵守。  
 101 我禁止我脚走一切的邪路，为要遵守你的话。  
+
+## Martyn Lloyd-Jones 唯有十架
+It is impossible for man to keep the Sermon on the Mount in his own strength. Man cannot even keep the Ten Commandments. And yet he talks glibly about keeping the Sermon on the Mount, and of imitating Christ.
+
+Lloyd-Jones, Martyn. The Cross (p. 167). Crossway. Kindle Edition. 
