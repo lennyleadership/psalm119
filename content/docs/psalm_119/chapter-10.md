@@ -35,3 +35,20 @@ toc: true
 
 ## Meditation 默想
 
+    2022.01.01  
+    赛42:21 耶和华因自己公义的缘故，喜欢使律法（或作：训诲）为大，为尊。  
+    Isa 42:21 The LORD was pleased, for his righteousness' sake, to magnify his law and make it glorious. (ESV)
+    
+    
+    上帝对我们是何等爱惜：  
+    赛 46:3 雅各家，以色列家一切余剩的要听我言：你们自从生下，就蒙我保抱，自从出胎，便蒙我怀搋。  
+    赛 46:4 直到你们年老，我仍这样；直到你们发白，我仍怀搋。我已造作，也必保抱；我必怀抱，也必拯救。  
+    
+    
+    (和合本)
+    赛 54:13 你的儿女都要受耶和华的教训；你的儿女必大享平安。
+    赛 54:14 你必因公义得坚立，必远离欺压，不至害怕；你必远离惊吓，惊吓必不临近你。
+
+    (ESV)
+    Isa 54:13  All your children shall be taught by the LORD, and great shall be the peace of your children.  
+    Isa 54:14  In righteousness you shall be established; you shall be far from oppression, for you shall not fear; and from terror, for it shall not come near you.  
