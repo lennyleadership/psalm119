@@ -24,7 +24,7 @@ toc: true
 
 
 ## ESV
-**Lamedh**
+**Lamedh**  
 89 Forever, O Lord, your word is firmly fixed in the heavens.  
 90 Your faithfulness endures to all generations; you have established the earth, and it stands fast.  
 91 By your appointment they stand this day, for all things are your servants.  
