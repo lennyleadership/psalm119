@@ -47,7 +47,7 @@ toc: true
     箴 9:10 敬畏耶和华是智慧的开端；认识至圣者便是聪明。  
     Proverb 9:10 The fear of the Lord is the beginning of wisdom, and the knowledge of the Holy One is insight.
    
-    ____ 
+____
     
     2022.01.16  
     这段经文仿佛呈现一副诗人在耶和华的殿中向耶和华祷告的场景。诗人降伏在耶和华面前，借着祷告抒发爱慕的心情、表达对上帝的感恩和赞美！内心向耶和华的敬拜溢于言表。
