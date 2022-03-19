@@ -40,3 +40,10 @@ ____
     过去的五年里，我在工作和生活中经历过161和165节经文里作者描述的心路。我更喜欢 Message 译本  
     161 I've been slandered unmercifully by the politicians, but my awe at your words keeps me stable.  
     165 For those who love what you reveal, everything fits — no stumbling around in the dark for them.  
+
+____
+    ‪诗篇‬1:2 和合本
+    2 惟喜爱耶和华的律法，昼夜思想，这人便为有福！
+
+    (NKJV)
+    But his delight is in the law of the Lord, And in His law he meditates day and night.
