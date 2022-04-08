@@ -11,12 +11,13 @@ title: 14. 献上感恩为祭物 (105-112)
 toc: true
 ---
 
+
 <br />   
 105 你的话是我脚前的灯，是我路上的光。  
 
-105 Your word is a lamp to my feet and a light to my path.<!--more-->
+105 Your word is a lamp to my feet and a light to my path.  
 
-<br />  
+<!--more keep on reading!-->
 ## 和合本
 
 105 你的话是我脚前的灯，是我路上的光。  
