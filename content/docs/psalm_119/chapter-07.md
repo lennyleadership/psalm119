@@ -45,9 +45,9 @@ ____
 
     与本段经文遥相呼应的经文：  
 
-    约16:33  我将这些事告诉你们，是要叫你们在我里面有平安。在世上，你们有苦难；但你们可以放心，我已经胜了世界。」   
+    约16:33 我将这些事告诉你们，是要叫你们在我里面有平安。在世上，你们有苦难；但你们可以放心，我已经胜了世界。」  
 
-    Joh 16:33  I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.”     
+    Joh 16:33 I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world.”    
 
 ____
     我觉得心里有了盼望，就有了平安。我们可以有情绪波动的经历，但是依然可以踏实地睡觉。  
@@ -58,7 +58,7 @@ ___
     
 ___    
     如果如果我满心欢喜耶和华的话语，我就会四处传扬。就如那些天使当年经历过上帝的美善，当耶稣降生的时候，向上帝、向世人见证：
-    路2:13  忽然，有一大队天兵同那天使赞美神说： 
-    路2:14  在至高之处荣耀归与神！在地上平安归与他所喜悦的人（有古卷：喜悦归与人）！ 
+    路2:13  忽然，有一大队天兵同那天使赞美神说：
+    路2:14 在至高之处荣耀归与神！在地上平安归与他所喜悦的人（有古卷：喜悦归与人）！
 
     众天使内在深处的喜乐感染到世人。(2021.12.09)
