@@ -15,9 +15,8 @@ toc: true
 <br />   
 105 你的话是我脚前的灯，是我路上的光。  
 
-105 Your word is a lamp to my feet and a light to my path.  
+105 Your word is a lamp to my feet and a light to my path.<!--more keep on reading!-->
 
-<!--more keep on reading!-->
 ## 和合本
 
 105 你的话是我脚前的灯，是我路上的光。  
